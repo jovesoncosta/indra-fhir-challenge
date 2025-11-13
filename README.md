@@ -151,7 +151,7 @@ http://localhost:8080/fhir/Patient
 ### **2. Condições (SNOMED CT)**  
 http://localhost:8080/fhir/Condition
 
-<img width="940" height="673" alt="json_cond" src="https://github.com/user-attachments/assets/bd6a0380-d98c-4796-85cd-9e4ce4bf360a" />
+<img width="1003" height="683" alt="json_cond" src="https://github.com/user-attachments/assets/c81a5d48-d333-427f-b051-4d955bd6af50" />
 
 
 ---
