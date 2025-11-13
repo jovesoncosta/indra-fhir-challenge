@@ -143,16 +143,27 @@ Aguarde **2–3 min** para Kafka e HAPI FHIR ficarem prontos.
 ### **1. Pacientes (BRIndividuo)**  
 http://localhost:8080/fhir/Patient
 
+<img width="953" height="650" alt="json_pac" src="https://github.com/user-attachments/assets/0267b2c1-3edf-4267-a4c3-510e8c38265c" />
+
+
 ---
 
 ### **2. Condições (SNOMED CT)**  
 http://localhost:8080/fhir/Condition
+
+<img width="940" height="673" alt="json_cond" src="https://github.com/user-attachments/assets/bd6a0380-d98c-4796-85cd-9e4ce4bf360a" />
+
 
 ---
 
 ### **3. Visualização opcional**  
 Use o **Vanya Client** apontando para:  
 http://localhost:8080/fhir
+
+<img width="1028" height="830" alt="pacientes" src="https://github.com/user-attachments/assets/80bc3eb6-761c-40ab-a50b-dd91ddb305d2" />
+
+<img width="1029" height="832" alt="Cond" src="https://github.com/user-attachments/assets/d530980a-1df0-4fa1-a452-dd055a6790ff" />
+
 
 ---
 
