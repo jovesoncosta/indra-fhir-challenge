@@ -4,7 +4,7 @@
 
 ---
 
-## 🎯 Objective
+## 🎯 Objetivo
 
 Este repositório contém a solução completa para o Desafio Técnico de Engenheiro de Dados (Especialista em HL7 FHIR), demonstrando um pipeline de dados ponta-a-ponta, desde a ingestão de dados legados (CSV) até a carga em um servidor FHIR R4, com enriquecimento semântico (RNDS e SNOMED CT).
 
@@ -19,7 +19,7 @@ O objetivo principal é simular um cenário real de interoperabilidade em saúde
 
 ---
 
-## 🏛️ Solution Architecture
+## 🏛️ Solução e Arquitetura
 
 A solução utiliza uma arquitetura moderna, containerizada e assíncrona, garantindo desacoplamento, resiliência e escalabilidade.
 
@@ -91,7 +91,7 @@ A coluna **Observação** (ex: "Diabético", "Hipertenso") é mapeada semanticam
 
 ---
 
-## 🚀 Running the Project
+## 🚀 Rodando o Projeto
 
 ### ✅ Pré-requisitos
 
@@ -132,7 +132,7 @@ Aguarde **2–3 min** para Kafka e HAPI FHIR ficarem prontos.
 ### **4. Executar o Pipeline**
 
 1. Acesse o Airflow  
-2. Enconte a DAG `indra_fhir_pipeline`  
+2. Encontre a DAG `indra_fhir_pipeline`  
 3. Despause  
 4. Clique em **Trigger DAG** (▶️)
 
@@ -158,8 +158,4 @@ http://localhost:8080/fhir
 
 ## 🎉 Finalizado!
 
-Se quiser, posso também:
 
-✔ gerar o arquivo `.md`  
-✔ adicionar badges, GIFs, imagens da arquitetura  
-✔ adicionar seções extras de "Resultados", "Screenshots", "Tecnologias", etc.
