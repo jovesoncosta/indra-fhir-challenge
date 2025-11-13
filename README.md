@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico: Pipeline de Dados FHIR (Indra Group)
+# 🚀 Desafio Técnico: Pipeline de Dados FHIR 
 
 **Date:** Novembro 2025
 
