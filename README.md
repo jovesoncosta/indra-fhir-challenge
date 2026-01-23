@@ -1,4 +1,4 @@
-# 🚀 Desafio Técnico: Pipeline de Dados FHIR 
+# 🚀 Pipeline de Dados FHIR 
 
 **Date:** Novembro 2025
 
@@ -8,7 +8,6 @@
 
 Este repositório contém a solução completa para o Desafio Técnico de Engenheiro de Dados (Especialista em HL7 FHIR), demonstrando um pipeline de dados ponta-a-ponta, desde a ingestão de dados legados (CSV) até a carga em um servidor FHIR R4, com enriquecimento semântico (RNDS e SNOMED CT).
 
-**Status:** 🏆 Concluído!
 
 O objetivo principal é simular um cenário real de interoperabilidade em saúde, onde dados de pacientes de um sistema legado (arquivo `patients.csv`) precisam ser:
 
